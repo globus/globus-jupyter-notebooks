@@ -1,0 +1,3 @@
+globus-sdk
+jupyter
+folium
