@@ -1,4 +1,4 @@
-# GW-notebooks
+# globus-jupyter-notebooks
 
 ## Install
 
