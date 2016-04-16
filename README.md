@@ -11,11 +11,11 @@ You may need to install pip and virtualenv first.  For example, on Mac OS X:
     sudo easy_install pip
     sudo pip install virtualenv
 
-Clone the globus-jupyter-notebooks git reporsitory
+Clone the globus-jupyter-notebooks git reporsitory:
 
     git clone https://github.com/globus/globus-jupyter-notebooks.git
 
-Create a virtualenv
+Create a virtualenv:
 
     cd globus-jupyter-notebooks
     virtualenv venv
