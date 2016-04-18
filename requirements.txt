@@ -1,3 +1,2 @@
 globus-sdk
 jupyter
-folium
