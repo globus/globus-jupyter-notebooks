@@ -1,2 +1,2 @@
-globus-sdk
+globus-sdk==0.2.6
 jupyter
