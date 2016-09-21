@@ -1,2 +1,4 @@
-globus-sdk==0.2.6
 jupyter
+globus-sdk==0.4.0
+# optional dependency of globus-sdk that enables ID Token parsing
+python-jose==1.3.2
