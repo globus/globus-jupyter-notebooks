@@ -6,7 +6,7 @@ These notebooks require Python 2.6+ or Python 3.2+. See
 http://docs.python-guide.org/en/latest/starting/installation/
 for easy Python installation instructions.
 
-You may need to install pip and virtualenv first.  For example, on Mac OS X:
+You may need to install pip and virtualenv first.  For example, on macOS:
 
     sudo easy_install pip
     sudo pip install virtualenv
@@ -40,3 +40,25 @@ If running remotely, for example, in a tutorial EC2 instance:
 * Globus SDK Documentation http://globus.github.io/globus-sdk-python/
 * Globus SDK Source: https://github.com/globus/globus-sdk-python
 * Globus CLI Source: https://github.com/globus/globus-cli
+
+## Troubleshooting
+
+### pip install fails with message about Python.h
+
+If `pip install -r requirements.txt` fails with a message including
+
+    Python.h: No such file or directory
+
+it likely means that you don't have the python development headers installed.
+
+Getting the headers is platform dependent.
+
+On macOS this issue should not occur.
+
+On Ubuntu:
+
+    sudo apt-get install python-dev
+
+On RHEL and CentOS:
+
+    sudo yum install python-devel
