@@ -15,8 +15,8 @@ _namespace_json_props = ['creators', 'admins', 'identifier_admins',
                          'provider_config']
 
 _identifier_properties = ['location', 'checksum', 'identifier',
-                          'checksum_function', 'properties', 'visible_to']
-_identifier_json_props = ['properties', 'visible_to']
+                          'checksum_function', 'metadata', 'visible_to']
+_identifier_json_props = ['metadata', 'visible_to']
 
 
 def identifier_client(config, **kwargs):
