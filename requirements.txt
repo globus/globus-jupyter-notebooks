@@ -1,2 +1,3 @@
 jupyter
-globus-sdk==1.5.0
+minid>=minid2.0.0b4
+globus-sdk>=1.7.0
