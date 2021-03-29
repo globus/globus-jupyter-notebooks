@@ -29,7 +29,7 @@ Install the notebook requirements using pip:
 
 To open a browser window with the Jupyter notebook interface:
 
-    jupyter-notebook SDK.ipynb
+    jupyter-notebook Platform_Introduction_Native_App_Auth.ipynb
 
 If running remotely, for example, in a tutorial EC2 instance:
 
