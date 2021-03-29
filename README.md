@@ -37,7 +37,7 @@ If running remotely, for example, in a tutorial EC2 instance:
 
 ## Links
 
-* Globus SDK Documentation http://globus.github.io/globus-sdk-python/
+* Globus SDK Documentation: https://globus-sdk-python.readthedocs.io/en/stable/
 * Globus SDK Source: https://github.com/globus/globus-sdk-python
 * Globus CLI Source: https://github.com/globus/globus-cli
 
