@@ -2,7 +2,7 @@
 
 ## Install
 
-These notebooks require Python 2.6+ or Python 3.2+. See
+These notebooks require Python 3.6+. See
 http://docs.python-guide.org/en/latest/starting/installation/
 for easy Python installation instructions.
 
