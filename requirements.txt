@@ -1,4 +1,4 @@
 jupyter
 minid>=minid2.0.0b4
-globus-sdk>=1.7.0
+globus-sdk<3.0.0>=1.7.0
 globus-automate-client>=0.11.4
