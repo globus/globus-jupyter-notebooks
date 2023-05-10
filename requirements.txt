@@ -2,3 +2,4 @@ jupyter
 minid>=2.0.1
 globus-sdk>=3
 globus-automate-client>=0.13
+globus-compute-sdk>=2.0.0
