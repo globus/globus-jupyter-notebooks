@@ -1,4 +1,4 @@
 jupyter
 minid>=2.0.1
 globus-sdk>=3
-globus-compute-sdk>=2.0.0
+globus-compute-sdk>=2.14.0
